@@ -1,0 +1,25 @@
+version: '2'
+services:
+  db:
+    # Take image from Docker Hub registry
+    image: postgres
+
+  web:
+    # Uses an image that’s built from the Dockerfile in the current directory.
+    build: .
+
+    # Forwards the exposed port 8000 on the container to port 8000 on the host machine.
+    ports:
+     - "8000:8000"
+
+    # Mounts the project directory on the host to /code inside the container, allowing you to modify the code without having to rebuild the image.
+    volumes:
+     - .:/code
+
+    # default comand for container after build (can add this in Dockerfile)
+    # dirty hack for wait postgres
+    command: bash -c "sleep 10; python manage.py migrate; python manage.py runserver 0.0.0.0:8000;"
+
+    # work only with db container
+    depends_on:
+      - db

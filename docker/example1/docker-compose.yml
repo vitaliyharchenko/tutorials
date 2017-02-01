@@ -1,0 +1,17 @@
+version: '2'
+services:
+  web:
+    # Uses an image that’s built from the Dockerfile in the current directory.
+    build: .
+
+    # Forwards the exposed port 5000 on the container to port 5000 on the host machine.
+    ports:
+     - "5000:5000"
+
+    # Mounts the project directory on the host to /code inside the container, allowing you to modify the code without having to rebuild the image.
+    volumes:
+     - .:/code
+
+  redis:
+    # Take image from Docker Hub registry
+    image: "redis:alpine"
