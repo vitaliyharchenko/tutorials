@@ -112,3 +112,4 @@ docker rm $(docker ps -a -q)
 8. [Hello world in Django with Docker](https://github.com/hoh/hello-django-docker)
 9. [Dockerfile for quickly running Django projects in a Docker container.](https://github.com/praekeltfoundation/docker-django-bootstrap)
 10. [Django Development With Docker Compose and Machine](https://realpython.com/blog/python/django-development-with-docker-compose-and-machine/)
+11.
