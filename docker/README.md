@@ -105,15 +105,10 @@ docker rm $(docker ps -a -q)
 1. [Compose for production](https://docs.docker.com/compose/production/)
 2. [Production-ready Django on Docker](https://github.com/morninj/django-docker)
 3. [This is a production-ready setup for running Django on Docker.](https://github.com/morninj/django-docker)
-
-
-Using Gitlab to build your images: `docker push registry.gitlab.com/vitaliyharchenko/harchenkopro`
-
-Then push on production
-
-```
-docker pull registry.gitlab.com/vitaliyharchenko/harchenkopro
-docker run --net=host --env-file=/your/env.file --name=project registry.gitlab.com/vitaliyharchenko/harchenkopro
-```
-
-1.3. [Используем Gitlab-CI для автоматического выкладывания всякого](https://habrahabr.ru/post/316054/)
+4. [Dockerized Django+React starter project](https://github.com/elielagmay/docker-django-react-seed)
+5. [Just a Django Docker image build example](https://github.com/davidkwast/docker-django-example)
+6. [Используем Gitlab-CI для автоматического выкладывания всякого](https://habrahabr.ru/post/316054/)
+7. [Django, uWSGI and Nginx in a container, using Supervisord](https://github.com/dockerfiles/django-uwsgi-nginx)
+8. [Hello world in Django with Docker](https://github.com/hoh/hello-django-docker)
+9. [Dockerfile for quickly running Django projects in a Docker container.](https://github.com/praekeltfoundation/docker-django-bootstrap)
+10. [Django Development With Docker Compose and Machine](https://realpython.com/blog/python/django-development-with-docker-compose-and-machine/)
