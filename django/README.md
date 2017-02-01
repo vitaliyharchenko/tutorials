@@ -8,4 +8,7 @@
 6. [Effective Django](http://www.effectivedjango.com/index.html)
 7. [Introduction to Python/Django testing: Basic Unit Tests](http://django-testing-docs.readthedocs.io/en/latest/basic_unittests.html)
 8. [Тестирование проектов Django](https://habrahabr.ru/post/122156/)
-9. [](http://kmike.ru/django-functional-testing-ru/)
+9. [Пишем функциональные/интеграционные тесты для проекта на django ](http://kmike.ru/django-functional-testing-ru/)
+10. [How To Serve Django Applications with uWSGI and Nginx on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-serve-django-applications-with-uwsgi-and-nginx-on-ubuntu-14-04)
+11. [Test-Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
+12. [AWESOME DJANGO](http://awesome-django.com)
