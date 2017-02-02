@@ -14,3 +14,19 @@
 ###Пример1.
 
 По мотивам: [Материалы к воркшопу «React.js и архитектура Flux»](https://github.com/roman01la/react-flux-workshop)
+
+Нужен Node.js версии 4 или новее.
+
+`$ npm i`
+`$ npm start`
+
+Перейти по ссылке [localhost:3000/lessons](http://localhost:3000/lessons)
+
+Моя песочница по шагам 1-6 [ссылке](http://localhost:3000/lessons/sandbox/)
+
+Ссылки:
+
+1. [JSX in Depth](https://facebook.github.io/react/docs/jsx-in-depth.html)
+2. [JSX Gotchas](https://facebook.github.io/react/docs/jsx-gotchas.html)
+3. [Component Specs and Lifecycle](https://facebook.github.io/react/docs/component-specs.html)
+
