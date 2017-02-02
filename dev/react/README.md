@@ -1,6 +1,5 @@
 Ссылки
 
-2. [Материалы к лекции по React для Yaroslavl Frontend Meetup #10](https://github.com/kvasdopil/react-lect1)
 3. [React with webpack - starter pack](https://github.com/artemdemo/react-webpack-starter)
 4. [Awesome React](https://github.com/enaqx/awesome-react)
 5. [Первый официальный релиз Webpack 2](https://habrahabr.ru/company/devexpress/blog/319906/)
