@@ -6,6 +6,8 @@
 
 1. [Мотивация не для слабонервных](http://surfingbird.ru/surf/motivatsiya-ne-dlya-slabonervnyh--oazS050A2?from_popular=1#.WJIYgLFeNR6)
 2. [10 главных игр, в которые математики играют с нашим умом и совестью](https://surfingbird.ru/surf/gAkUA30C1?stat_counter=prismat&feedtype=prismfeed#.VXw2RWDN5sk)
+3. [19 инструментов, куда можно выгодно вложить деньги в 2017 году, чтобы заработать!](http://www.mr-money.ru/zarabotok/investirovanie/17-instrumentov-chtoby-vygodno-vlozhit-dengi-v-godu/)
+4. [Реальная доходность наиболее распространенных инвестиционных инструментов](http://www.infinplan.ru/system/files/Lichnyy_budjet.pdf)
 
 Фотографии
 
