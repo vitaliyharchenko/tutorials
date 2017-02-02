@@ -11,22 +11,36 @@
 
 -----------------
 
-###Пример1.
+###Пример1. (папка react-flux-workshop)
 
 По мотивам: [Материалы к воркшопу «React.js и архитектура Flux»](https://github.com/roman01la/react-flux-workshop)
-
-Нужен Node.js версии 4 или новее.
-
-`$ npm i`
-`$ npm start`
-
-Перейти по ссылке [localhost:3000/lessons](http://localhost:3000/lessons)
-
-Моя песочница по шагам 1-6 [ссылке](http://localhost:3000/lessons/sandbox/)
 
 Ссылки:
 
 1. [JSX in Depth](https://facebook.github.io/react/docs/jsx-in-depth.html)
 2. [JSX Gotchas](https://facebook.github.io/react/docs/jsx-gotchas.html)
 3. [Component Specs and Lifecycle](https://facebook.github.io/react/docs/component-specs.html)
+
+---------------------
+
+###Пример2. (папка react-lect1)
+
+По мотивам: [Материалы к лекции по React для Yaroslavl Frontend Meetup #10](https://github.com/kvasdopil/react-lect1)
+
+**Итого: плюсы и минусы React**
+
+*Плюсы:*
++ простой, решает только задачу отображения view
++ быстрый, хорошая реализация vdom
++ однонаправленный
++ легко тестировать
++ легко делать server-side rendering
++ легко интегрируется с bootstrap\material-ui\semantic-ui и т.п.
++ легко обучать сотрудников (особенно выросших из php)
+
+*Минусы:*
+- работает совсем не так как jquery
+- нужно юзать оптимизации
+- immutable state это не очень просто
+
 
