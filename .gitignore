@@ -1,4 +1,4 @@
 # Created by .ignore support plugin (hsz.mobi)
 .gitignore
 .idea/
-docker/example3/django_project/composeexample/__pycache__/
+dev/docker/example3/django_project/composeexample/__pycache__/
