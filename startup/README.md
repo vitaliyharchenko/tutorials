@@ -1,6 +1,7 @@
 1. [Как избежать конфликтов между основателями стартапа?](http://myemarketing.ru/internet-business/kak-izbezhat-konfliktov-mezhdu-osnovateljami-startapa)
 2. [О чем стоит подумать основателям стартапа в самом начале своих отношений](http://radiag.ru/post/56669896747/о-чем-стоит-подумать-основателям-стартапа-в-самом)
 3. [Манифест работы с людьми от Стратоплана](http://stratoplan.ru/manifesto/)
+4. [Трудовые отношения в стартапе: какие нужны документы?](http://rb.ru/opinion/trudovye/)
 
 Фонды:
 

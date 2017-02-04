@@ -1,6 +1,7 @@
 1. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 2. [Главред](https://glvrd.ru)
 3. [Типограф Лебедева](https://glvrd.ru)
+4. [Optima - текстовый редактор](http://getoptima.ru)
 
 Идеи для статей:
 
@@ -8,6 +9,8 @@
 2. [10 главных игр, в которые математики играют с нашим умом и совестью](https://surfingbird.ru/surf/gAkUA30C1?stat_counter=prismat&feedtype=prismfeed#.VXw2RWDN5sk)
 3. [19 инструментов, куда можно выгодно вложить деньги в 2017 году, чтобы заработать!](http://www.mr-money.ru/zarabotok/investirovanie/17-instrumentov-chtoby-vygodno-vlozhit-dengi-v-godu/)
 4. [Реальная доходность наиболее распространенных инвестиционных инструментов](http://www.infinplan.ru/system/files/Lichnyy_budjet.pdf)
+5. [«Навыки XXI века»: новая реальность в образовании](http://erazvitie.org/article/navyki_xxi_veka_novaja_realnost)
+6. [Развитие другой модели. Как России не проспать будущее](http://kommersant.ru/doc/3190818)
 
 Фотографии
 

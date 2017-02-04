@@ -41,6 +41,7 @@
 
 1. [2500+ Quality Mockups & Demo Videos](https://placeit.net)
 2. [Safari Framer](http://framer.coalla.ru)
+3. [Sketch resourses](http://sketchapp.me)
 
 Bootstrap
 
