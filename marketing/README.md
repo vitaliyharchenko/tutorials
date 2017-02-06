@@ -10,3 +10,7 @@
 7. [Amplifr - публикации в соцсетях](https://amplifr.com/ru/)
 8. [Чек-лист запуска таргетированной рекламы чужими руками](https://docs.google.com/document/d/1RagV8XJKy8yZ6ePlJBGRiTbv-_0jAebrI53poT6zePc/edit)
 9. [Руководство по созданию и продвижению аккаунта в Instagram](http://netology.ru/blog/guide-create-inst)
+10. [SeoPult](https://seopult.ru)
+11. [CreateItGroup](http://createit-group.ru/index.php/component/contact/contact/1?Itemid=499?utm_source=vk&utm_medium=promopost&utm_campaign=5000)
+12. [Appodeal - монетизация приложения](https://www.appodeal.ru)
+13. [10 российских журналистов, пишущих о стартапах](https://vk.com/feed?w=wall-57135099_2733)

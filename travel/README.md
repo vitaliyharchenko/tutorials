@@ -1,0 +1,7 @@
+1. [Aquamarino - морские круизы](https://seopult.ru)
+2. [Библия глобус](https://www.bgoperator.ru)
+3. [Level Travel - поиск туров](https://level.travel/?aflt=Varlamov)
+4. [Вандроуки - дешевые путешествия](http://vk.com/vandroukiru)
+5. [100 САМЫХ КРАСИВЫХ МЕСТ НА ПЛАНЕТЕ, КОТОРЫЕ НАДО УВИДЕТЬ ДО КОНЦА ЖИЗНИ](https://lifehacker.ru/special/100places/)
+6. [лоукостер](http://www.cheaptrip.ru)
+7. [Моя карта мест для посещения](https://www.google.com/maps/d/edit?hl=ru&mid=1-IRzEahZmJuar0d784rIc7aLlME&ll=1.4745591551715975%2C82.06109915000002&z=2)

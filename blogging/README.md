@@ -11,6 +11,9 @@
 4. [Реальная доходность наиболее распространенных инвестиционных инструментов](http://www.infinplan.ru/system/files/Lichnyy_budjet.pdf)
 5. [«Навыки XXI века»: новая реальность в образовании](http://erazvitie.org/article/navyki_xxi_veka_novaja_realnost)
 6. [Развитие другой модели. Как России не проспать будущее](http://kommersant.ru/doc/3190818)
+7. [«Как думать». Правила Эдварда Бойдена](https://nplus1.ru/blog/2017/01/30/ed-boyden-how-to-think?utm_source=&utm_medium=&utm_campaign=edvard-boyden--laureat-dvuh-nauchnyh-pre)
+8. [Группы смерти](http://kab-psy.blogspot.ru/2017/01/psihologiyagruppysmerti.html)
+9. [36 вопросов, которые приводят к любви](https://www.adme.ru/svoboda-psihologiya/kak-legko-vlyubitsya-v-neznakomca-836410/)
 
 Фотографии
 

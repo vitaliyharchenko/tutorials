@@ -7,6 +7,7 @@
 7. [9 things every React.js beginner should know](https://camjackson.net/post/9-things-every-reactjs-beginner-should-know)
 8. [react-howto](https://github.com/petehunt/react-howto)
 9. [React.js на русском языке](https://habrahabr.ru/post/315466/)
+10. [SPA на Django + React.js](http://djbook.ru/examples/75/)
 
 -----------------
 

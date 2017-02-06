@@ -32,6 +32,7 @@
 Фотографии
 
 1. [Beautiful free stock photos](https://stocksnap.io)
+2. [Ilustrio - A smarter icon library.](https://illustrio.com)
 
 Красивые сайты:
 
