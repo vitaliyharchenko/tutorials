@@ -21,6 +21,7 @@
 13. [GoTech – фонд](https://vk.com/gotech_vc)
 14. [GenerationS — это федеральный акселератор технологических стартапов](http://generation-startup.ru)
 15. [iDealMachine – это венчурный фонд и стартап-акселератор](http://www.idealmachine.ru)
+16. [РЫбаков фонд образование](http://rybakovfond.ru/2016/03/01/konkurs-innovatsij-v-obrazovanii-kivo/)
 
 Running Lean
 ============

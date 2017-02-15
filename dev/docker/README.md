@@ -98,7 +98,13 @@ docker rm $(docker ps -a -q)
 
 -----------------
 
-### Пример 4
+### Пример 4 (папка example4)
+
+по мотивам: [Build and Deploy a Python Web App on Docker](https://www.distelli.com/docs/tutorials/build-and-deploy-python-with-docker)
+
+-----------------
+
+### Пример 5
 
 По мотивам: [Django Development With Docker Compose and Machine](https://realpython.com/blog/python/django-development-with-docker-compose-and-machine/)
 
@@ -119,6 +125,8 @@ docker rm $(docker ps -a -q)
 `docker-compose run web env` see env variables in web container
 
 --------------------
+
+
 
 
 

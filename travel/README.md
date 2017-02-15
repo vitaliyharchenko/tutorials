@@ -5,3 +5,4 @@
 5. [100 САМЫХ КРАСИВЫХ МЕСТ НА ПЛАНЕТЕ, КОТОРЫЕ НАДО УВИДЕТЬ ДО КОНЦА ЖИЗНИ](https://lifehacker.ru/special/100places/)
 6. [лоукостер](http://www.cheaptrip.ru)
 7. [Моя карта мест для посещения](https://www.google.com/maps/d/edit?hl=ru&mid=1-IRzEahZmJuar0d784rIc7aLlME&ll=1.4745591551715975%2C82.06109915000002&z=2)
+8. [Trip My Dream. Поиск выгодных путешествий. Найди лучшее среди 2000+ направлений. Сэкономь до 80 %](https://tripmydream.com)
