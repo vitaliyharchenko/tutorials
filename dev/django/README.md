@@ -1,6 +1,7 @@
 Ссылки:
 
-1. [Token-based authentication with Django and React](http://geezhawk.github.io/user-authentication-with-react-and-django-rest-framework)
+1. [simple is better than complex](https://simpleisbetterthancomplex.com)
+2. [Token-based authentication with Django and React](http://geezhawk.github.io/user-authentication-with-react-and-django-rest-framework)
 2. [Awesome Python](https://github.com/vinta/awesome-python)
 3. [Django-rest-auth](http://django-rest-auth.readthedocs.io/en/latest/api_endpoints.html)
 4. [Install and Configure PostgreSQL for Django](http://www.marinamele.com/taskbuster-django-tutorial/install-and-configure-posgresql-for-django)
