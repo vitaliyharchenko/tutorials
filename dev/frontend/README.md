@@ -28,6 +28,7 @@
 13. [Redactor fantastic WYSIWYG-editor](https://imperavi.com/redactor/examples/)
 14. [JavaScript gallery, no dependencies.](http://photoswipe.com)
 15. [For Elegant and Professional Sliders](http://bqworks.com/slider-pro/)
+16. [Email Framework](http://emailframe.work)
 
 Фотографии
 
