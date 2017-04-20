@@ -29,6 +29,7 @@
 14. [JavaScript gallery, no dependencies.](http://photoswipe.com)
 15. [For Elegant and Professional Sliders](http://bqworks.com/slider-pro/)
 16. [Email Framework](http://emailframe.work)
+17. [Красивые формы оплаты с карты для сайта](https://habrahabr.ru/post/324738/)
 
 Фотографии
 
